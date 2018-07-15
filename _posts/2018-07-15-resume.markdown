@@ -1,1 +1,6 @@
-Resume
+---
+layout: post
+title:  "Resume"
+date:   2018-07-15
+categories: jekyll update
+---
