@@ -4,3 +4,7 @@ title:  "Resume"
 date:   2018-07-15
 categories: jekyll update
 ---
+
+Resume: <https://docs.google.com/document/d/1SWlT-CaCmuyUdOtwamg9F3WbTpKuuyyyYki3fkYv4ik/edit?usp=sharing>
+
+CV: <https://docs.google.com/document/d/15Kd3ZBAhfnCwGg3zh-93vCgG64MMLnFw4o3OFCEIs94/edit?usp=sharing>
